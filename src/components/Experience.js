@@ -5,23 +5,29 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>Clayton State University</i>, 2014-2018
+                    <i>Nordic Global</i> - <strong>Senior Integration Advisor</strong>
                     <ul>
-                        <li>Graduated with 3.00 GPA</li>
+                        <li>AdvantageCare Physicians NY</li>
+                        <li>Novant Health</li>
+                        <li>Partners Healthcare</li>
+                        <li>UMass Memorial</li>
+                        <li>WellStar Health</li>
                     </ul>
                 </li>
                 <li>
-                    <i>TechFlow</i> - <strong>Blockchain Developer Intern</strong>, 2018-2019
+                    <i>Interface Engine Certifications</i>
                     <ul>
-                        <li>Studied DApp development</li>
-                        <li>Assisted Research &amp; Development on Web3 Products</li>
+                        <li>Epic Bridges, 2022</li>
+                        <li>Infor Cloverleaf, Level 2 Developer</li>
+                        <li>Cerner Openlink, 2022</li>
+                        <li>Healthshare Ensemble, 2021</li>
                     </ul>
                 </li>
                 <li>
-                    <i>SpiderChain</i> - <strong>Blockchain Developer</strong>, 2019-2022
+                    <i>North Carolina State University</i> - <strong>B.S. Computer Engineering</strong>
                     <ul>
-                        <li>Contributed to smart contract development on client's platform</li>
-                        <li>Peer reviewed &amp; Audited Solidity code</li>
+                        <li>Assembly, C, Java, HTML</li>
+                        <li>Built LC3 Machine</li>
                     </ul>
                 </li>
             </ul>
