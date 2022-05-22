@@ -6,10 +6,11 @@ const About = () => {
         <section className='about'>
             <h2>About Me</h2>
             <p>
-                Solidity and web 3 developer with over ten years of systems
-                integration experience. Interested in creating secure,
-                interoperable smart contracts. Professional, self motivated,
-                and team oriented.
+                Solidity and Web 3 developer with over ten years of Electronic
+                Data Interchange (EDI) experience, great communication,
+                leadership and solid understanding of smart contracts and
+                decentralized applications. Dependable, professional,
+                goal-oriented and team-oriented.
             </p>
         </section>
     );

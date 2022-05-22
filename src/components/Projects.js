@@ -14,7 +14,7 @@ const Projects = () => {
                     <h3>Bridges Token</h3>
                     <img src={bridges} alt="Bridges Token" />
                     <p>ERC20, ERC223 cryptocurrency with a maximum supply of
-                    1337 tokens.
+                    1337 AIP tokens.
                     </p>
 
                     <a href="https://ropsten.etherscan.io/address/0x90f60831dabcd45e64d563607b87f638def6c2ad" target="_blank" className="button">Site</a>
@@ -35,8 +35,7 @@ const Projects = () => {
                 <div className="projects__card">
                     <h3>How Much Gas</h3>
                     <img src={gasfee} alt="How Much Gas" />
-                    <p>See how much gas fees you have spent in the ethereum
-                    blockchain!
+                    <p>See how much gas fees you have spent on Ethereum!
                     </p>
 
                     <a href="https://github.com/theBridgesDev/Web3/tree/main/GasFees" target="_blank" className="button">Site</a>
