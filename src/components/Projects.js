@@ -1,6 +1,6 @@
 // Import Assets
 import bridges from '../assets/bridge.png';
-import coinflip from '../assets/coinflip.png';
+import cat from '../assets/cat.png';
 import gasfee from '../assets/gasfee.png';
 
 const Projects = () => {
@@ -22,14 +22,13 @@ const Projects = () => {
                 </div>
 
                 <div className="projects__card">
-                    <h3>Coin Flip Game</h3>
-                    <img src={coinflip} alt="Coin Flip Game" />
-                    <p>Flip a coin and guess a side! Guess correctly and win
-                    some Eth!
+                    <h3>Feline Friends NFTs</h3>
+                    <img src={cat} alt="Coin Flip Game" />
+                    <p>Mint your very own feline friend!
                     </p>
 
-                    <a href="https://ropsten.etherscan.io/address/0xCC038db060c7e3DD32376AdF4c98128c10B424bc" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/theBridgesDev/SmartContracts/tree/main/CoinFlip" target="_blank" className="button">Code</a>
+                    <a href="https://stalwart-boba-9b9ae1.netlify.app/" target="_blank" className="button">Site</a>
+                    <a href="https://github.com/theBridgesDev/Web3/tree/main/NFT%20Minter%20DApp" target="_blank" className="button">Code</a>
                 </div>
 
                 <div className="projects__card">

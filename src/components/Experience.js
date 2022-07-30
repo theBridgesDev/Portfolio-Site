@@ -4,8 +4,17 @@ const Experience = () => {
             <h2>Experience</h2>
 
             <ul>
+				<li>
+                    <i>Personal Solidity/Web3 Projects</i> - <strong>Freelance Developer</strong>
+                    <ul>
+                        <li>Bridges Coin (Atom, Truffle, Ganache, Ropsten)</li>
+                        <li>Feline Friends NFT Minter (Hardhat, React, IPFS, Goerli)</li>
+                        <li>CoinFlip Game (Solidity/Remix, Ropsten)</li>
+                        <li>Gas Fees (Atom, Ethersjs, Ethereum Mainnet)</li>
+                    </ul>
+                </li>
                 <li>
-                    <i>Nordic Global</i> - <strong>Senior EDI Advisor</strong>
+                    <i>Medical Records</i> - <strong>Electronic Data Interchange (EDI)</strong>
                     <ul>
                         <li>AdvantageCare Physicians, New York City, NY</li>
                         <li>Lee Health, Fort Myers, FL</li>
